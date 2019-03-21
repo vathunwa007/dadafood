@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="PageAccessControlMethod" value="useAccessList" />
+	<infoitem key="MM_Session1" value="MM_Username" />
+	<infoitem key="MM_Session_Count" value="1" />
+	<infoitem key="PageAccessControl" value="1" />
+	<infoitem key="MM_Server_Count" value="1" />
+	<infoitem key="MM_Server1" value="REMOTE_ADDR" />
+	<infoitem key="MM_Form1" value="name" />
+	<infoitem key="MM_Form_Count" value="2" />
+	<infoitem key="MM_Form2" value="massage" />
+</info>

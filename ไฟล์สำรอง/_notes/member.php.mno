@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Food1" value="name:id;datatype:3,name:typeid;datatype:3,name:image;datatype:253,name:food;datatype:253,name:price;datatype:4" />
+</info>

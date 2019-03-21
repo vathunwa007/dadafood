@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_nambuyorder" value="name:order_id;datatype:3,name:name;datatype:253,name:note;datatype:253,name:email;datatype:253,name:phone;datatype:253,name:order_status;datatype:3,name:order_date;datatype:12,name:buyorder_id;datatype:3,name:order_id;datatype:3,name:id;datatype:253,name:many;datatype:3,name:total;datatype:4,name:food;datatype:253" />
+	<infoitem key="UD_showbuyorder" value="name:buyorder_id;datatype:3,name:order_id;datatype:3,name:id;datatype:253,name:many;datatype:3,name:total;datatype:4,name:food;datatype:253" />
+	<infoitem key="UD_Recordset1" value="name:buyorder_id;datatype:3,name:order_id;datatype:3,name:id;datatype:253,name:many;datatype:3,name:total;datatype:4,name:food;datatype:253,name:order_id;datatype:3,name:name;datatype:253,name:note;datatype:253,name:email;datatype:253,name:phone;datatype:253,name:order_status;datatype:3,name:order_date;datatype:12" />
+</info>
